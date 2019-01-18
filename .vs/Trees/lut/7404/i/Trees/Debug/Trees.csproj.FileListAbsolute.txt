@@ -1,0 +1,6 @@
+D:\StructursAndDaani\folderTree\Trees\.vs\Trees\lut\0\b\Trees\bin\Debug\Trees.exe.config
+D:\StructursAndDaani\folderTree\Trees\.vs\Trees\lut\0\b\Trees\bin\Debug\Trees.exe
+D:\StructursAndDaani\folderTree\Trees\.vs\Trees\lut\0\i\Trees\Debug\Trees.csprojAssemblyReference.cache
+D:\StructursAndDaani\folderTree\Trees\.vs\Trees\lut\0\i\Trees\Debug\Trees.csproj.CoreCompileInputs.cache
+D:\StructursAndDaani\folderTree\Trees\.vs\Trees\lut\0\i\Trees\Debug\Trees.csproj.CopyComplete
+D:\StructursAndDaani\folderTree\Trees\.vs\Trees\lut\0\i\Trees\Debug\Trees.exe

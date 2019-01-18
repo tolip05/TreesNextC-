@@ -1,0 +1,5 @@
+D:\StructursAndDaani\folderTree\Trees\.vs\Trees\lut\0\b\Trees.Tests\bin\Debug\Trees.Tests.dll
+D:\StructursAndDaani\folderTree\Trees\.vs\Trees\lut\0\i\Trees.Tests\Debug\Trees.Tests.csprojAssemblyReference.cache
+D:\StructursAndDaani\folderTree\Trees\.vs\Trees\lut\0\i\Trees.Tests\Debug\Trees.Tests.csproj.CoreCompileInputs.cache
+D:\StructursAndDaani\folderTree\Trees\.vs\Trees\lut\0\i\Trees.Tests\Debug\Trees.Tests.csproj.CopyComplete
+D:\StructursAndDaani\folderTree\Trees\.vs\Trees\lut\0\i\Trees.Tests\Debug\Trees.Tests.dll
